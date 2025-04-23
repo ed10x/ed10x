@@ -7,7 +7,6 @@ Experienced Go developer specializing in infrastructure and CI/CD pipeline devel
 - **Primary Language**: Go
 - **Secondary Skills**: Python, React
 - **Focus Areas**: Infrastructure, CI/CD, Cloud Native technologies
-- **Development Tools**: Docker, Kubernetes, Git
 
 ## 👀 Interests
 - AI and Machine Learning integration
@@ -24,12 +23,12 @@ Experienced Go developer specializing in infrastructure and CI/CD pipeline devel
 - Innovative open source infrastructure projects
 - DevOps toolchain optimization
 - Cloud Native application development
+<!---
 
 ## 📫 How to Reach Me
 - GitHub: [@ed10x](https://github.com/ed10x)
 - [Your email or other contact information]
 
-<!---
 ed10x/ed10x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
